@@ -1,0 +1,25 @@
+# Core Deep Learning Libraries
+torch
+torchvision
+torchaudio
+
+# Data Processing & Handling
+numpy
+pandas
+opencv-python
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Video Processing (for frame extraction)
+moviepy
+
+# Google Colab Utilities (for file management & cloud storage)
+google-colab
+
+# Model Deployment & Optimization
+onnx
+onnxruntime
+torch-tensorrt
