@@ -19,22 +19,17 @@ You can run the notebooks in three ways:
 - **Google Colab**: Click the provided Colab links to run on free cloud GPUs.
 - **Custom HPC Clusters**: Train large models on your own computing resources.
 
-Schedule (Example)
-------------------
+Schedule (Surgical Task Identification)
+=========================================
 
-+--------------------------+---------------------------------+
-| **Date**                 | **Notebook**                   |
-+--------------------------+---------------------------------+
-| Monday, March 4, 2024    | CNN Basics                     |
-+--------------------------+---------------------------------+
-| Monday, March 11, 2024   | LSTM & TCN for Surgical Data   |
-+--------------------------+---------------------------------+
-| Monday, March 18, 2024   | Transformers for Surgery       |
-+--------------------------+---------------------------------+
+**March 4, 2024**: CNN Basics  
+**March 11, 2024**: LSTM & TCN for Surgical Data  
+**March 18, 2024**: Transformers for Surgery  
+
+
 
 .. toctree::
    :maxdepth: 2
    :caption: Tutorials
 
    notebooks
-   setup
